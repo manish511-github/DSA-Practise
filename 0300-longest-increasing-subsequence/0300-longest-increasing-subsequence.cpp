@@ -3,28 +3,29 @@ public:
 
 
     int lengthOfLIS(vector<int>& arr) {
-        int n =arr.size();
+        int n = arr.size();
 
-        vector<vector<int>> dp(n+1,vector<int> (n+1,0));
-        for(int index= n-1;index>=0 ; index--)
+    vector<int> dp(n+1,1);
+    dp[0]=1;
+    int maxi =0;
+    for(int i=0 ;i<n;i++)
+    {
+        for(int j=0;j<i;j++)
         {
-            for(int prev=n-1;prev>=-1;prev--)
+            if(arr[i] >arr[j])
             {
-        int pick =0;
+                if(dp[i]<=dp[j]+1)
+                {
+                        dp[i]=dp[j]+1;
+              
 
-
-        if(prev==-1 || arr[index]>arr[prev])
-        {
-             pick = 1+ dp[index+1][index+1];
-        }
-        int notpick = dp[index+1][prev+1];
-       dp[index][prev+1]= max(pick,notpick);
-
+                }
+            
 
             }
         }
-        return dp[0][0];
-
-        
+          maxi=max(maxi,dp[i]);
+    }
+    return maxi;
     }
 };

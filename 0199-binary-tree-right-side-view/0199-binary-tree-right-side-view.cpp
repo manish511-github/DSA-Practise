@@ -26,6 +26,8 @@ public:
 
     }
     vector<int> rightSideView(TreeNode* root) {
+        //Time complexity -> O(n)
+        //Space Complexity -> O(log(n))-> height of binary tree
         vector<int> v;
         helper(root,0,v);
         return v;

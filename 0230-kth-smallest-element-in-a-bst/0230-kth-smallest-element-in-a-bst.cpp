@@ -13,7 +13,7 @@ class Solution {
 public:
 void helper(TreeNode * root,int &val,int &ans,int k)
 {
-    if (root==NULL)
+    if (root==NULL|| k==0)
     {
         return;
     }

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/manish511-github/DSA-Practise/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manish511-github/DSA-Practise/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish511-github/DSA-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |

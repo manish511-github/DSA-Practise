@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/manish511-github/DSA-Practise/tree/master/0234-palindrome-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manish511-github/DSA-Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -190,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

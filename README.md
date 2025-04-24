@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manish511-github/DSA-Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manish511-github/DSA-Practise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/manish511-github/DSA-Practise/tree/master/2793-count-the-number-of-complete-components) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->

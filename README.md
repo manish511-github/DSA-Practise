@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manish511-github/DSA-Practise/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/manish511-github/DSA-Practise/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish511-github/DSA-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manish511-github/DSA-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -248,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/manish511-github/DSA-Practise/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/manish511-github/DSA-Practise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

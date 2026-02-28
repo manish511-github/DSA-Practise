@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0045-jump-game-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish511-github/DSA-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manish511-github/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manish511-github/DSA-Practise/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish511-github/DSA-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manish511-github/DSA-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Binary Search

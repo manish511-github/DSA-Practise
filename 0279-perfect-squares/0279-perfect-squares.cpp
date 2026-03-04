@@ -3,24 +3,35 @@ public:
     
 
     int numSquares(int n) {
-        vector<int> dp(n+1,-1);
-
-        for (int i=0;i<=n;i++){
-            if (i==0){
-                dp[i]=0;
-            }
-            else{
-                int ans=INT_MAX;
-            for (int j=1;j*j<=i;j++){
-                ans=min(ans,1+ dp[i-j*j]);
-                }
-                dp[i]=ans;
-            }
-
+    // Start from n
+	// Subtract all possible squares
+	// Each subtraction is one level
+	// First time you reach 0 → answer
+    queue<pair<int,int>> q;
+    q.push({n,0});
+    vector<int>visited(10001,0);
+    while(!q.empty()){
+        auto it =q.front();
+        int frontval=it.first;
+        int level=it.second;
+        if (frontval==0){
+            return level;
         }
-        return dp[n];
+        q.pop();
+        for(int j=1;j*j<=frontval;j++){
+            int next =frontval-j*j;
+            if (next==0){
+                return (level+1);
 
-        // Time COmplexity :- O(n*underroot(n))
-        // Space complexit : -O (n)
+            }
+            if (visited[next]==0){
+                visited[next]=1;
+                q.push({next,level+1});
+            }
+            
+        }
     }
+    return 0;
+    }
+
 };

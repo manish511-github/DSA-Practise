@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/manish511-github/DSA-Practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manish511-github/DSA-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/manish511-github/DSA-Practise/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/manish511-github/DSA-Practise/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/manish511-github/DSA-Practise/tree/master/0337-house-robber-iii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manish511-github/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/manish511-github/DSA-Practise/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/manish511-github/DSA-Practise/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manish511-github/DSA-Practise/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/manish511-github/DSA-Practise/tree/master/0279-perfect-squares) |
 ## Combinatorics
 |  |
 | ------- |

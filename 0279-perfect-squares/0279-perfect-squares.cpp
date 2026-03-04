@@ -1,34 +1,25 @@
 class Solution {
 public:
     
-    int helper(int index,int val,vector<int>& arr,vector<vector<int>> &dp)
+    int helper(int i,vector<int>& dp)
     {
-        if (val==0){
+        if (i==0){
             return 0;
         }
-        if (index<0){
-            return 10001;
+        int ans=INT_MAX;
+        if (dp[i]!=-1){
+            return dp[i];
         }
-        int take=10001;
-        if (dp[index][val]!=-1){
-            return dp[index][val];
+        for (int j=1;j*j<=i;j++){
+            ans=min(ans,1+ helper(i-j*j,dp));
         }
-        if (arr[index]<=val){
-            take = 1+helper(index,val-arr[index],arr,dp);
-        }
-        int nottake=helper(index-1,val,arr,dp);
-        return dp[index][val]=min(take,nottake);
+        return dp[i]= ans;
+      
     }
     int numSquares(int val) {
-       vector<int> arr;
-
-        for(int i = 1; i * i <= 10000; i++) {
-            arr.push_back(i * i);
-        }
-        int n=arr.size();
-        vector<vector<int>> dp(n,vector<int>(10000+1,-1));
-        return helper(n-1,val,arr,dp);
-        
+        vector<int> dp(10001,-1);
+        return helper(val,dp);
+    
 
         
     }

@@ -1,31 +1,22 @@
 class Solution {
 public:
-
-
-    int lengthOfLIS(vector<int>& arr) {
-        int n = arr.size();
-
-    vector<int> dp(n+1,1);
-    dp[0]=1;
-    int maxi =0;
-    for(int i=0 ;i<n;i++)
-    {
-        for(int j=0;j<i;j++)
-        {
-            if(arr[i] >arr[j])
-            {
-                if(dp[i]<=dp[j]+1)
-                {
-                        dp[i]=dp[j]+1;
-              
-
-                }
-            
-
-            }
+    int helper(int index, int prev, vector<int>& arr, vector<vector<int>> &dp){
+        if (index >=arr.size()){
+            return 0;
         }
-          maxi=max(maxi,dp[i]);
+        int take=0;
+        if (dp[index][prev+1]!=-1){
+            return dp[index][prev+1];
+        }
+        if (prev==-1 || arr[index]>arr[prev]){
+            take = 1+ helper(index+1,index,arr,dp);
+        }
+        int nottake=helper(index+1,prev,arr,dp);
+        return dp[index][prev+1]=max(take,nottake);
     }
-    return maxi;
+    int lengthOfLIS(vector<int>& arr) {
+        int n=arr.size();
+        vector<vector<int>> dp(n+1,vector<int>(n+2,-1));
+        return helper(0,-1,arr,dp);
     }
 };

@@ -1,25 +1,24 @@
 class Solution {
 public:
     
-    int helper(int i,vector<int>& dp)
-    {
-        if (i==0){
-            return 0;
+
+    int numSquares(int n) {
+        vector<int> dp(n+1,-1);
+
+        for (int i=0;i<=n;i++){
+            if (i==0){
+                dp[i]=0;
+            }
+            else{
+                int ans=INT_MAX;
+            for (int j=1;j*j<=i;j++){
+                ans=min(ans,1+ dp[i-j*j]);
+                }
+                dp[i]=ans;
+            }
+
         }
-        int ans=INT_MAX;
-        if (dp[i]!=-1){
-            return dp[i];
-        }
-        for (int j=1;j*j<=i;j++){
-            ans=min(ans,1+ helper(i-j*j,dp));
-        }
-        return dp[i]= ans;
-      
-    }
-    int numSquares(int val) {
-        vector<int> dp(10001,-1);
-        return helper(val,dp);
-    
+        return dp[n];
 
         
     }

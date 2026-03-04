@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manish511-github/DSA-Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -281,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manish511-github/DSA-Practise/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/manish511-github/DSA-Practise/tree/master/0085-maximal-rectangle) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->

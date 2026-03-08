@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/manish511-github/DSA-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/manish511-github/DSA-Practise/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/manish511-github/DSA-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Dynamic Programming
 |  |

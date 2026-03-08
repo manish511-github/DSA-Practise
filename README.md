@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/manish511-github/DSA-Practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/manish511-github/DSA-Practise/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/manish511-github/DSA-Practise/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/manish511-github/DSA-Practise/tree/master/0337-house-robber-iii) |
+| [0376-wiggle-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manish511-github/DSA-Practise/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |

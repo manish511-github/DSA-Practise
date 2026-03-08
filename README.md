@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/manish511-github/DSA-Practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/manish511-github/DSA-Practise/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |

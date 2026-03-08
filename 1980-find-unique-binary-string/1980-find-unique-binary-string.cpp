@@ -7,7 +7,13 @@ public:
             }
             return ;
         }
+        if (!ans.empty()){
+            return;
+        }
         helper(s+'1',mp,ans,n);
+        if (!ans.empty()){
+            return;
+        }
         helper(s+'0',mp,ans,n);
         
     }

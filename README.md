@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0376-wiggle-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/manish511-github/DSA-Practise/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/manish511-github/DSA-Practise/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0540-single-element-in-a-sorted-array) |
 ## Tree
 |  |
 | ------- |

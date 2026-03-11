@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manish511-github/DSA-Practise/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0045-jump-game-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/manish511-github/DSA-Practise/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
 ## Tree

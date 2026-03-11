@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish511-github/DSA-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/manish511-github/DSA-Practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/manish511-github/DSA-Practise/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
 ## Tree

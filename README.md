@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/manish511-github/DSA-Practise/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manish511-github/DSA-Practise/tree/master/0064-minimum-path-sum) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manish511-github/DSA-Practise/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/0074-search-a-2d-matrix) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/manish511-github/DSA-Practise/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Number Theory

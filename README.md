@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manish511-github/DSA-Practise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
+| [3839-number-of-prefix-connected-groups](https://github.com/manish511-github/DSA-Practise/tree/master/3839-number-of-prefix-connected-groups) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3096-minimum-levels-to-gain-more-points](https://github.com/manish511-github/DSA-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/manish511-github/DSA-Practise/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3839-number-of-prefix-connected-groups](https://github.com/manish511-github/DSA-Practise/tree/master/3839-number-of-prefix-connected-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3839-number-of-prefix-connected-groups](https://github.com/manish511-github/DSA-Practise/tree/master/3839-number-of-prefix-connected-groups) |
 ## Counting
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manish511-github/DSA-Practise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [3839-number-of-prefix-connected-groups](https://github.com/manish511-github/DSA-Practise/tree/master/3839-number-of-prefix-connected-groups) |
 ## Divide and Conquer
 |  |
 | ------- |

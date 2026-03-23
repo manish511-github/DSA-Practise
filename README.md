@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/manish511-github/DSA-Practise/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2708-maximum-strength-of-a-group](https://github.com/manish511-github/DSA-Practise/tree/master/2708-maximum-strength-of-a-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/manish511-github/DSA-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Dynamic Programming
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/manish511-github/DSA-Practise/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manish511-github/DSA-Practise/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->

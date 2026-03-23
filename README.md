@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/manish511-github/DSA-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/manish511-github/DSA-Practise/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Dynamic Programming
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/manish511-github/DSA-Practise/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/manish511-github/DSA-Practise/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2708-maximum-strength-of-a-group](https://github.com/manish511-github/DSA-Practise/tree/master/2708-maximum-strength-of-a-group) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/manish511-github/DSA-Practise/tree/master/3111-minimum-rectangles-to-cover-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
 | [2708-maximum-strength-of-a-group](https://github.com/manish511-github/DSA-Practise/tree/master/2708-maximum-strength-of-a-group) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/manish511-github/DSA-Practise/tree/master/3111-minimum-rectangles-to-cover-points) |
 ## Graph
 |  |
 | ------- |

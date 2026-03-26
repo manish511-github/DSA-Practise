@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3096-minimum-levels-to-gain-more-points](https://github.com/manish511-github/DSA-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/manish511-github/DSA-Practise/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/manish511-github/DSA-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3839-number-of-prefix-connected-groups](https://github.com/manish511-github/DSA-Practise/tree/master/3839-number-of-prefix-connected-groups) |
 ## Dynamic Programming
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/manish511-github/DSA-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3839-number-of-prefix-connected-groups](https://github.com/manish511-github/DSA-Practise/tree/master/3839-number-of-prefix-connected-groups) |
 ## Counting
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/manish511-github/DSA-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Monotonic Stack
 |  |
 | ------- |

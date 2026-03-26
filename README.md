@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/manish511-github/DSA-Practise/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0063-unique-paths-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manish511-github/DSA-Practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manish511-github/DSA-Practise/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/manish511-github/DSA-Practise/tree/master/0131-palindrome-partitioning) |
 | [1980-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/manish511-github/DSA-Practise/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manish511-github/DSA-Practise/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |

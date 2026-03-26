@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/manish511-github/DSA-Practise/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/manish511-github/DSA-Practise/tree/master/0234-palindrome-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/manish511-github/DSA-Practise/tree/master/2104-sum-of-subarray-ranges) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/manish511-github/DSA-Practise/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Recursion
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/manish511-github/DSA-Practise/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1980-find-unique-binary-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/manish511-github/DSA-Practise/tree/master/2104-sum-of-subarray-ranges) |
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/manish511-github/DSA-Practise/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manish511-github/DSA-Practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manish511-github/DSA-Practise/tree/master/0085-maximal-rectangle) |
+| [2104-sum-of-subarray-ranges](https://github.com/manish511-github/DSA-Practise/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |

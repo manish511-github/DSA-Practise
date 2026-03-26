@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/manish511-github/DSA-Practise/tree/master/0131-palindrome-partitioning) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/manish511-github/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manish511-github/DSA-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manish511-github/DSA-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manish511-github/DSA-Practise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1980-find-unique-binary-string) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/manish511-github/DSA-Practise/tree/master/0222-count-complete-tree-nodes) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manish511-github/DSA-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/manish511-github/DSA-Practise/tree/master/2708-maximum-strength-of-a-group) |
 ## Sorting
@@ -397,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manish511-github/DSA-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manish511-github/DSA-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

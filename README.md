@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/manish511-github/DSA-Practise/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/manish511-github/DSA-Practise/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/manish511-github/DSA-Practise/tree/master/0279-perfect-squares) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manish511-github/DSA-Practise/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/manish511-github/DSA-Practise/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/manish511-github/DSA-Practise/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Combinatorics

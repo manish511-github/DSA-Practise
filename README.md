@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/manish511-github/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manish511-github/DSA-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1496-path-crossing](https://github.com/manish511-github/DSA-Practise/tree/master/1496-path-crossing) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manish511-github/DSA-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1496-path-crossing](https://github.com/manish511-github/DSA-Practise/tree/master/1496-path-crossing) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manish511-github/DSA-Practise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1980-find-unique-binary-string) |

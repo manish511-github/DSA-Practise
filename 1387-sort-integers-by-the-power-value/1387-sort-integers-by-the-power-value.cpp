@@ -1,19 +1,22 @@
 class Solution {
 public:
-    int helper(int k){
-        int count=0;
-        while(k!=1){
-            if (k%2==0){
-                count++;
-                k=k/2;
-            }else{
-                count++;
-                k=3*k+1;
-            }
+    unordered_map<int, int> dp;
+
+    int helper(int x){
+        if (x==1){
+            return 0;
         }
-        return count;
+        if (dp.count(x)){
+            return dp[x];
+        }
+        if (x % 2 == 0) {
+            return dp[x] = 1 + helper(x / 2);
+        } else {
+            return dp[x] = 1 + helper(3 * x + 1);
+        }
     }
     int getKth(int low, int high, int k) {
+        dp[1]=0;
         vector<pair<int,int>>v;
         for (int i=low;i<=high;i++){
             int power=helper(i);

@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/manish511-github/DSA-Practise/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1387-sort-integers-by-the-power-value](https://github.com/manish511-github/DSA-Practise/tree/master/1387-sort-integers-by-the-power-value) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manish511-github/DSA-Practise/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
+| [1387-sort-integers-by-the-power-value](https://github.com/manish511-github/DSA-Practise/tree/master/1387-sort-integers-by-the-power-value) |
 | [2708-maximum-strength-of-a-group](https://github.com/manish511-github/DSA-Practise/tree/master/2708-maximum-strength-of-a-group) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/manish511-github/DSA-Practise/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manish511-github/DSA-Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manish511-github/DSA-Practise/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Memoization
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/manish511-github/DSA-Practise/tree/master/1387-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->

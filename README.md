@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/2107-find-unique-binary-string) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2671-frequency-tracker](https://github.com/manish511-github/DSA-Practise/tree/master/2671-frequency-tracker) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manish511-github/DSA-Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/manish511-github/DSA-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -442,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/manish511-github/DSA-Practise/tree/master/1387-sort-integers-by-the-power-value) |
+## Design
+|  |
+| ------- |
+| [2671-frequency-tracker](https://github.com/manish511-github/DSA-Practise/tree/master/2671-frequency-tracker) |
 <!---LeetCode Topics End-->

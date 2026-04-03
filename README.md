@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manish511-github/DSA-Practise/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/manish511-github/DSA-Practise/tree/master/0376-wiggle-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manish511-github/DSA-Practise/tree/master/0560-subarray-sum-equals-k) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/manish511-github/DSA-Practise/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/manish511-github/DSA-Practise/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/manish511-github/DSA-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manish511-github/DSA-Practise/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manish511-github/DSA-Practise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/manish511-github/DSA-Practise/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
 |  |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/manish511-github/DSA-Practise/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manish511-github/DSA-Practise/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
@@ -430,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Rolling Hash
 |  |
@@ -447,4 +453,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2671-frequency-tracker](https://github.com/manish511-github/DSA-Practise/tree/master/2671-frequency-tracker) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

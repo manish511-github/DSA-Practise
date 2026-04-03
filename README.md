@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manish511-github/DSA-Practise/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/manish511-github/DSA-Practise/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/manish511-github/DSA-Practise/tree/master/0295-find-median-from-data-stream) |
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [2105-watering-plants-ii](https://github.com/manish511-github/DSA-Practise/tree/master/2105-watering-plants-ii) |
 ## Stack
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/manish511-github/DSA-Practise/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manish511-github/DSA-Practise/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/manish511-github/DSA-Practise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manish511-github/DSA-Practise/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/manish511-github/DSA-Practise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Rolling Hash
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/manish511-github/DSA-Practise/tree/master/0295-find-median-from-data-stream) |
 | [2671-frequency-tracker](https://github.com/manish511-github/DSA-Practise/tree/master/2671-frequency-tracker) |
 ## Bucket Sort
 |  |
@@ -461,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/manish511-github/DSA-Practise/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

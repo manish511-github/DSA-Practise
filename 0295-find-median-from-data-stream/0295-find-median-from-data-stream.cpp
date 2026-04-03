@@ -4,7 +4,7 @@ public:
 
     MedianFinder() {
     
-        
+        // Space  O(n)
     }
 
     // -1       // -2
@@ -12,7 +12,7 @@ public:
     priority_queue<int> maxi;
     priority_queue<int,vector<int>,greater<int>> mini;
     
-    void addNum(int num) {
+    void addNum(int num) { // time compelxity -> O(logn)
         
             if (size%2==0){
                 if (maxi.empty()){
@@ -55,7 +55,7 @@ public:
     }
     
     double findMedian() {
-        if (size%2==0){
+        if (size%2==0){ // O(1)
             return (mini.top()+maxi.top())/2.0;
         }
         else{

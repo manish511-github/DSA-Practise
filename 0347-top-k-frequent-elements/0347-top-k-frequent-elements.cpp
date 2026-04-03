@@ -23,6 +23,16 @@ public:
             ans.push_back(t.second);
         }
         return ans;
+        // O(n) + O(m \log k) 
+    
+        // Worst-case = O(n log k)
+
+        //Space Complexity 
+        //	1.	unordered_map → stores m unique elements → O(m)
+        //  2.	priority_queue → stores m elements → O(m)
+        //  3.	ans → stores k elements → O(k)
+
+        //    So total: //O(m + k)
 
     }
 };

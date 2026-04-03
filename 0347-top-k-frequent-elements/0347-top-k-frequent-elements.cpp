@@ -1,38 +1,27 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& arr, int k) {
-        //Approch 1:-
+        //Approch 3:-
         unordered_map<int,int>mp;
-        vector<int>ans;
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        
         for (int i=0;i<arr.size();i++){
             mp[arr[i]]++;
 
         }
-        
+        vector<vector<int>>ans(arr.size()+1);
         for (auto it : mp){
-            pq.push({it.second,it.first});
-            if (pq.size()>k){
-                pq.pop();
+            ans[it.second].push_back(it.first);
+        }
+        vector<int> v;
+        for (int i=ans.size()-1;i>=1;i--){
+            for (int j=0;j<ans[i].size();j++){
+                v.push_back(ans[i][j]);
+                if (v.size()==k){
+                    return v;
+                }
             }
         }
-        
-        while(!pq.empty()){
-            auto t=pq.top();
-            pq.pop();
-            ans.push_back(t.second);
-        }
-        return ans;
-        // O(n) + O(m \log k) 
-    
-        // Worst-case = O(n log k)
-
-        //Space Complexity 
-        //	1.	unordered_map → stores m unique elements → O(m)
-        //  2.	priority_queue → stores m elements → O(m)
-        //  3.	ans → stores k elements → O(k)
-
-        //    So total: //O(m + k)
+        return v;
 
     }
 };

@@ -38,14 +38,20 @@ public:
         auto cmp = [](ListNode* a, ListNode* b) { return a->val > b->val; };
         priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
         for (auto node : lists) if (node) pq.push(node);
-        ListNode * l1=NULL;
+        ListNode * l1=new ListNode (-1);
+        ListNode* curr=l1;
+
        while(!pq.empty()){
         ListNode * t= pq.top();
-        l1=helper(l1,t);
         pq.pop();
-
+        l1->next=t;
+        l1=l1->next;
+        if (t->next!=NULL){
+            pq.push(t->next);
+        }
        }
-       return l1;
+
+       return curr->next;
         
     }
 };

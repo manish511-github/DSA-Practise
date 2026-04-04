@@ -38,6 +38,7 @@ public:
         auto cmp = [](ListNode* a, ListNode* b) { return a->val > b->val; };
         priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
         for (auto node : lists) if (node) pq.push(node);
+        // klog(k)
         ListNode * l1=new ListNode (-1);
         ListNode* curr=l1;
 
@@ -50,8 +51,10 @@ public:
             pq.push(t->next);
         }
        }
-
+        //NLog(k)
+        // N->no of node across all linked lsit
+        // Space complexity -> O(k) k-> no of linked lists
        return curr->next;
-        
+        //Time Complexity -> 
     }
 };

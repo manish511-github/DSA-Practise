@@ -10,51 +10,58 @@
  */
 class Solution {
 public:
-    // ListNode* helper(ListNode* l1,ListNode* l2){
-    //     ListNode * curr= new ListNode (-1);
-    //     ListNode* dummy =curr;
-    //     while(l1!=NULL && l2!=NULL){
-    //         if (l1->val<l2->val){
-    //             curr->next=l1;
-    //             l1=l1->next;
-    //             curr=curr->next;
-    //         }
-    //         else {
-    //             curr->next=l2;
-    //             l2=l2->next;
-    //             curr=curr->next;
-    //         }
-    //     }
-    //     if (l1!=NULL){
-    //         curr->next=l1;
-    //     }
-    //     if (l2!=NULL){
-    //         curr->next=l2;
-    //     }
-    //     return dummy->next;
-    
-    // }
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        auto cmp = [](ListNode* a, ListNode* b) { return a->val > b->val; };
-        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
-        for (auto node : lists) if (node) pq.push(node);
-        // klog(k)
-        ListNode * l1=new ListNode (-1);
-        ListNode* curr=l1;
-
-       while(!pq.empty()){
-        ListNode * t= pq.top();
-        pq.pop();
-        l1->next=t;
-        l1=l1->next;
-        if (t->next!=NULL){
-            pq.push(t->next);
+    ListNode* helper(ListNode* l1,ListNode* l2){
+        ListNode * curr= new ListNode (-1);
+        ListNode* dummy =curr;
+        while(l1!=NULL && l2!=NULL){
+            if (l1->val<l2->val){
+                curr->next=l1;
+                l1=l1->next;
+                curr=curr->next;
+            }
+            else {
+                curr->next=l2;
+                l2=l2->next;
+                curr=curr->next;
+            }
         }
-       }
-        //NLog(k)
-        // N->no of node across all linked lsit
-        // Space complexity -> O(k) k-> no of linked lists
-       return curr->next;
-        //Time Complexity -> 
+        if (l1!=NULL){
+            curr->next=l1;
+        }
+        if (l2!=NULL){
+            curr->next=l2;
+        }
+        return dummy->next;
+    
+    }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        
+        // 1 4 5 
+        // 1 3 4
+        // 2 6 
+        
+        // 1 2 4 5 6        // 1 3 4
+        int i=0;
+
+        int n=lists.size();
+        if (n==0){
+            return NULL;
+        }
+        int j=n-1;
+        int last =j;
+        while(last!=0){
+            i=0;
+            
+             while(i<j){
+            lists[i]=helper(lists[i],lists[j]);
+            i++;
+            j--;
+            if (i>=j){
+                last=j;
+            }
+        }
+        }
+        return lists[0];
+       
     }
 };

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/manish511-github/DSA-Practise/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/manish511-github/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manish511-github/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manish511-github/DSA-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/manish511-github/DSA-Practise/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/manish511-github/DSA-Practise/tree/master/0355-design-twitter) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manish511-github/DSA-Practise/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manish511-github/DSA-Practise/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manish511-github/DSA-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/manish511-github/DSA-Practise/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/manish511-github/DSA-Practise/tree/master/0295-find-median-from-data-stream) |
 | [1019-squares-of-a-sorted-array](https://github.com/manish511-github/DSA-Practise/tree/master/1019-squares-of-a-sorted-array) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manish511-github/DSA-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/manish511-github/DSA-Practise/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manish511-github/DSA-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manish511-github/DSA-Practise/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/manish511-github/DSA-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/manish511-github/DSA-Practise/tree/master/0355-design-twitter) |

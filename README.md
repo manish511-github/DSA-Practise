@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manish511-github/DSA-Practise/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/manish511-github/DSA-Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manish511-github/DSA-Practise/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/manish511-github/DSA-Practise/tree/master/0234-palindrome-linked-list) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manish511-github/DSA-Practise/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/manish511-github/DSA-Practise/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/manish511-github/DSA-Practise/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manish511-github/DSA-Practise/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/manish511-github/DSA-Practise/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/manish511-github/DSA-Practise/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/manish511-github/DSA-Practise/tree/master/0231-power-of-two) |

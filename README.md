@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manish511-github/DSA-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/manish511-github/DSA-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3546-equal-sum-grid-partition-i](https://github.com/manish511-github/DSA-Practise/tree/master/3546-equal-sum-grid-partition-i) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-minimum-rectangles-to-cover-points](https://github.com/manish511-github/DSA-Practise/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/manish511-github/DSA-Practise/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3546-equal-sum-grid-partition-i](https://github.com/manish511-github/DSA-Practise/tree/master/3546-equal-sum-grid-partition-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manish511-github/DSA-Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/manish511-github/DSA-Practise/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3839-number-of-prefix-connected-groups](https://github.com/manish511-github/DSA-Practise/tree/master/3839-number-of-prefix-connected-groups) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/manish511-github/DSA-Practise/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manish511-github/DSA-Practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/manish511-github/DSA-Practise/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/manish511-github/DSA-Practise/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/manish511-github/DSA-Practise/tree/master/2708-maximum-strength-of-a-group) |
+| [3546-equal-sum-grid-partition-i](https://github.com/manish511-github/DSA-Practise/tree/master/3546-equal-sum-grid-partition-i) |
 ## Union-Find
 |  |
 | ------- |

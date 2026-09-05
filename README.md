@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/manish511-github/DSA-Practise/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/manish511-github/DSA-Practise/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manish511-github/DSA-Practise/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/manish511-github/DSA-Practise/tree/master/1980-find-unique-binary-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/manish511-github/DSA-Practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1090-largest-values-from-labels](https://github.com/manish511-github/DSA-Practise/tree/master/1090-largest-values-from-labels) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/manish511-github/DSA-Practise/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/manish511-github/DSA-Practise/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/manish511-github/DSA-Practise/tree/master/2358-maximum-number-of-groups-entering-a-competition) |

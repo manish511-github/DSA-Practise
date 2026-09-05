@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3096-minimum-levels-to-gain-more-points](https://github.com/manish511-github/DSA-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/manish511-github/DSA-Practise/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/manish511-github/DSA-Practise/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manish511-github/DSA-Practise/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/manish511-github/DSA-Practise/tree/master/3546-equal-sum-grid-partition-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manish511-github/DSA-Practise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/manish511-github/DSA-Practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manish511-github/DSA-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/manish511-github/DSA-Practise/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Tree
 |  |
 | ------- |

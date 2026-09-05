@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/manish511-github/DSA-Practise/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/manish511-github/DSA-Practise/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/manish511-github/DSA-Practise/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/manish511-github/DSA-Practise/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2708-maximum-strength-of-a-group](https://github.com/manish511-github/DSA-Practise/tree/master/2708-maximum-strength-of-a-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manish511-github/DSA-Practise/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/manish511-github/DSA-Practise/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/manish511-github/DSA-Practise/tree/master/0279-perfect-squares) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manish511-github/DSA-Practise/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/manish511-github/DSA-Practise/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/manish511-github/DSA-Practise/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/manish511-github/DSA-Practise/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/manish511-github/DSA-Practise/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Combinatorics
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/manish511-github/DSA-Practise/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/manish511-github/DSA-Practise/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/manish511-github/DSA-Practise/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Enumeration
